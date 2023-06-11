@@ -1,1 +1,15 @@
+LOC project: 214 (Calculator.java & Start.java)
+
+Calculator.java
+Calculator::evaluateExpression:
+Cyclomatic Complexity: 12
+ 
+
+ 
+Start.java
+Calculator::evaluateExpression:
+Cyclomatic Complexity: 3
+ 
+
+
 
